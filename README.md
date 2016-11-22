@@ -69,9 +69,7 @@ $ docker pull mysql:latest
 >$ docker build -t crawler:1.0 .
 >```
 
->### docker-compose up
-
-### Last Step!!!
+### docker-compose up
 
 ```
 $ cd secbuzzer/
