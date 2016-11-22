@@ -50,7 +50,7 @@ $ docker build -t elasticsearch:1.4.0 .
 $ docker pull mysql:latest
 ```
 >### Build Crawler Image (base on jdk-8 images)
-edit properties.xml:
+>edit properties.xml:
 
 ```
 <entry key="host">ip address</entry>
