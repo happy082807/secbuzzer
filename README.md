@@ -52,14 +52,14 @@ $ docker pull mysql:latest
 >### Build Crawler Image (base on jdk-8 images)
 >edit properties.xml:
 
-```
-<entry key="host">ip address</entry>
+>```
+><entry key="host">ip address</entry>
 
-<entry key="logCarving_host">ip address</entry>
+><entry key="logCarving_host">ip address</entry>
 
-<entry key="mysql_host">ip address</entry>
+><entry key="mysql_host">ip address</entry>
 
-<entry key="es_host">ip address</entry>
+><entry key="es_host">ip address</entry>
 ```
 
 ```
