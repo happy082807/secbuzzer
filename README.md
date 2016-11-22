@@ -60,16 +60,18 @@ $ docker pull mysql:latest
 ><entry key="mysql_host">ip address</entry>
 
 ><entry key="es_host">ip address</entry>
-```
+>```
 
-```
-$ cd secbuzzer/crawler/
-```
-```
-$ docker build -t crawler:1.0 .
-```
+>```
+>$ cd secbuzzer/crawler/
+>```
+>```
+>$ docker build -t crawler:1.0 .
+>```
 
 >### docker-compose up
+
+### Last Step!!!
 
 ```
 $ cd secbuzzer/
